@@ -24,6 +24,8 @@ Si vous cherchez à économiser de l'argent sur vos voyages TUI Fly, notre logic
 
 Rendez-vous sur la page [release](https://github.com/zonetecde/Traqueur-de-prix-TUI-Fly/releases/tag/Release), ou cliqué [ici](https://github.com/zonetecde/Traqueur-de-prix-TUI-Fly/releases/download/Release/Traqueur.TUI.Fly.exe) pour télécharger directement la dernière version !
 
+Le logiciel nécessite le Framework .Net 6.0 (Microsoft) téléchargeable [ici](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.408-windows-x64-installer) si vous ne l'avez pas déjà d'installé sur votre ordinateur (le logiciel vous le demandera si vous ne l'avez pas).
+
 ## Quelques images...
 
 Sélection des vols que l'on veut traquer
