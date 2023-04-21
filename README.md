@@ -1,4 +1,4 @@
-# Traqueur-de-prix-TUI-Fly
+# Traqueur de prix TUI Fly
 
 Notre logiciel de surveillance de prix pour TUI Fly est la solution idéale pour tous les voyageurs à la recherche des vols les moins chers. Grâce à notre application, vous pouvez surveiller les prix de vos vols TUI Fly préférés et recevoir des notifications en temps réel lorsque les prix baissent ou augmentent.
 
