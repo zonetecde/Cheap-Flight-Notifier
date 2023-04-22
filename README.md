@@ -4,10 +4,10 @@
   <img width="200" height="200" src="https://user-images.githubusercontent.com/56195432/233740093-1e9f2f45-52f3-44fe-8509-42bc6d5643ea.jpg">
 </p>
 
-Notre logiciel de surveillance de prix pour TUI Fly est la solution idéale pour tous les voyageurs à la recherche des vols les moins chers. Grâce à notre application, vous pouvez surveiller les prix de vos vols TUI Fly préférés et recevoir des notifications en temps réel lorsque les prix baissent ou augmentent.
+Notre logiciel de surveillance pour TUI Fly est la solution idéale pour tous les voyageurs à la recherche de leurs vols au meilleur prix. Grâce à notre application, vous pouvez surveiller le prix de vos vols préférés et recevoir une notification en temps réel lorsque le prix baisse ou augmente.
 
 ## Comment ça marche ?
-Notre logiciel fonctionne sur un serveur distant, ce qui signifie que même si l'application est fermée, vous continuerez à recevoir des notifications sur votre téléphone. Vous pouvez configurer le logiciel pour qu'il surveille les prix de n'importe quel aéroport de départ et de destination desservi par TUI Fly, puis sélectionner les dates pour lesquelles vous souhaitez être informé des changements de prix.
+Notre logiciel fonctionne sur PC. Une fois que vos vols ont été choisi, vous pouvez fermer l'application et même éteindre le PC car vous continuerez à recevoir des notifications sur votre téléphone. Vous pouvez configurer le logiciel pour qu'il surveille les prix de n'importe quel aéroport de départ et de destination desservi par TUI Fly, puis sélectionner les dates pour lesquelles vous souhaitez être informé des changements de prix.
 
 Le logiciel permet également de surveiller les prix de vos vols selon plusieurs critères, tels que :
 - Augmentation / Baisse du prix avec calcul de la différence
