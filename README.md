@@ -16,7 +16,7 @@ Le logiciel permet également de sélectionner plusieurs critères, tels que :
 - La fréquence de vos requêtes sur les serveurs TUI Fly. 
 
 ## Restez alerté sur votre téléphone
-Les notifications sont reçues directement sur votre téléphone au travers de l'application Telegram. Pour configurer la reception de celles-ci, vous devez créer un bot Telegram en suivant les tutoriels fournis dans notre logiciel. Ces tutoriels comprennent des exemples vidéo qui vous guideront tout au long du processus.
+Les notifications sont reçues directement sur votre téléphone au travers de l'application Telegram. Pour configurer la réception de celles-ci, vous devez créer un bot Telegram en suivant les tutoriels fournis dans notre logiciel. Ces tutoriels comprennent des exemples vidéo qui vous guideront tout au long du processus.
 
 ## Essayez-le gratuitement pendant 24 heures
 Nous offrons une période d'essai gratuite de 24 heures pour que vous puissiez tester notre logiciel avant de l'acheter. 
