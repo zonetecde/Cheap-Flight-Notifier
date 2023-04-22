@@ -47,4 +47,4 @@ Notification reçu sur le téléphone de l'utilisateur
 <img src="https://user-images.githubusercontent.com/56195432/233738454-7a15dd76-3c79-4058-a41a-3d366c90b642.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" />
 
 
-En cas de problème, contactez-moi : zonedetec@gmail.com
+En cas de problème, ou pour acheter une licence, contactez-nous : zonedetec@gmail.com
