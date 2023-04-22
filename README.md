@@ -16,10 +16,11 @@ Le logiciel permet également de sélectionner plusieurs critères, tels que :
 - La fréquence de vos requêtes sur les serveurs TUI Fly. 
 
 ## Restez alerté sur votre téléphone
-Les notifications sont reçues directement sur votre téléphone au travers de l'application Telegram. Pour configurer la reception des notifications, vous devez créer un bot Telegram en suivant les tutoriels fournis dans notre logiciel. Ces tutoriels comprennent des exemples vidéo qui vous guideront tout au long du processus.
+Les notifications sont reçues directement sur votre téléphone au travers de l'application Telegram. Pour configurer la reception de celles-ci, vous devez créer un bot Telegram en suivant les tutoriels fournis dans notre logiciel. Ces tutoriels comprennent des exemples vidéo qui vous guideront tout au long du processus.
 
-## Essayez gratuitement pendant 24 heures
-Nous offrons une période d'essai gratuite de 24 heures pour que vous puissiez tester notre logiciel avant de l'acheter. Après la période d'essai, une licence unique de 20 euros est requise pour continuer à utiliser le logiciel.
+## Essayez-le gratuitement pendant 24 heures
+Nous offrons une période d'essai gratuite de 24 heures pour que vous puissiez tester notre logiciel avant de l'acheter. 
+Pour continuer de l'utiliser, une licence unique de 20 euros est requise pour l'ordinateur sur lequel il est installé.
 
 ## Pourquoi choisir notre logiciel ?
 Notre logiciel de surveillance de prix pour TUI Fly offre une solution simple et pratique pour les voyageurs à la recherche de vols à bas prix. Grâce à notre application, vous pouvez surveiller les prix de vos vols TUI Fly préférés sans avoir à passer des heures à chercher des offres sur des sites de voyage. Les fonctionnalités de notification en temps réel et de visualisation des prix font de notre logiciel un outil indispensable pour tous les voyageurs soucieux de leur budget.
