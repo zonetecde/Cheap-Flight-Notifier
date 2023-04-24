@@ -41,11 +41,11 @@ Sélection des vols que l'on veut "traquer"
 ![Choisir ses vols à suivre](https://user-images.githubusercontent.com/56195432/233738042-44a256c4-635e-45c6-9d4c-d918668ecfb3.png)
 
 Évolution du prix des vols "traqués"
-![Evolution](https://user-images.githubusercontent.com/56195432/233738250-e0574dc0-f3c3-42d4-b7f4-7b0be4ce6c9f.png)
+![Evolution](https://user-images.githubusercontent.com/56195432/234071778-815b3ce7-b389-4745-9cab-c1e6e55d19b1.png)
 
 Notification reçu sur le téléphone de l'utilisateur
 
-<img src="https://user-images.githubusercontent.com/56195432/233738454-7a15dd76-3c79-4058-a41a-3d366c90b642.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" />
+<img src="https://user-images.githubusercontent.com/56195432/234072256-0ff6c9e4-14fe-432a-89e3-1e6d2c027b06.jpg" width="400" />
 
 
 En cas de problème, ou pour acheter une licence, contactez-nous : zonedetec@gmail.com
