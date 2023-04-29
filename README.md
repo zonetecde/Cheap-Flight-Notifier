@@ -4,7 +4,7 @@
   <img width="200" height="200" src="https://user-images.githubusercontent.com/56195432/233740093-1e9f2f45-52f3-44fe-8509-42bc6d5643ea.jpg">
 </p>
 
-Notre logiciel de surveillance du prix de vos vols est la solution idéale pour tous les voyageurs à la recherche d'un billet au meilleur prix. 
+Ce logiciel est la solution idéale pour tous voyageurs soucieux d'obtenir leur billet au meilleur prix.
 Grâce à notre application, vous pouvez surveiller le prix de vos vols préférés avec différentes compagnies aériennes et recevoir une notification en temps réel lorsque le prix baisse ou augmente (et plus encore...)
 
 ## Comment ça marche ?
