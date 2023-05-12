@@ -19,7 +19,7 @@ Le logiciel permet également de sélectionner plusieurs critères, tels que :
 ## Restez alerté sur votre téléphone
 Les notifications sont reçues directement sur votre téléphone au travers de l'application Telegram. Pour configurer la réception de celles-ci, vous devez ajouter votre Id Telegram en suivant les tutoriels fournis dans notre logiciel. Ces tutoriels comprennent des exemples vidéo qui vous guideront tout au long du processus.
 
-## Essayez-le gratuitement pendant 24 heures
+## Essayez-le gratuitement pendant 48 heures
 Nous offrons une période d'essai gratuite de 24 heures pour que vous puissiez tester notre logiciel avant de l'acheter. 
 Pour continuer à l'utiliser, vous devrez vous acquitter de la somme de 20 euros afin d'obtenir une licence pour l'ordinateur sur lequel il est installé.
 
