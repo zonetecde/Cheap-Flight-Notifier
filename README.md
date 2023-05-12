@@ -38,10 +38,11 @@ Le logiciel nécessite le Framework .Net 6.0 (Microsoft) téléchargeable [ici](
 ## Quelques images...
 
 Sélection des vols que l'on veut "traquer"
-![Choisir ses vols à suivre](https://user-images.githubusercontent.com/56195432/233738042-44a256c4-635e-45c6-9d4c-d918668ecfb3.png)
+![image](https://github.com/zonetecde/Cheap-Flight-Notifier/assets/56195432/bc69d5fe-f489-4edf-bcd8-268e33e9116e)
+![image](https://github.com/zonetecde/Cheap-Flight-Notifier/assets/56195432/ce1e32cb-3000-4a05-8cb1-78593fba13e2)
 
 Évolution du prix des vols "traqués"
-![Evolution](https://user-images.githubusercontent.com/56195432/234071778-815b3ce7-b389-4745-9cab-c1e6e55d19b1.png)
+![Évolution](https://github.com/zonetecde/Cheap-Flight-Notifier/assets/56195432/952dd337-f558-4a18-82b7-d18844117ba9)
 
 Notification reçu sur le téléphone de l'utilisateur
 
