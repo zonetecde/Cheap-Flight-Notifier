@@ -19,9 +19,9 @@ Le logiciel permet également de sélectionner plusieurs critères, tels que :
 ## Restez alerté sur votre téléphone
 Les notifications sont reçues directement sur votre téléphone au travers de l'application Telegram. Pour configurer la réception de celles-ci, vous devez ajouter votre Id Telegram en suivant les tutoriels fournis dans notre logiciel. Ces tutoriels comprennent des exemples vidéo qui vous guideront tout au long du processus.
 
-## Essayez-le gratuitement pendant 48 heures
-Nous offrons une période d'essai gratuite de 24 heures pour que vous puissiez tester notre logiciel avant de l'acheter. 
-Pour continuer à l'utiliser, vous devrez vous acquitter de la somme de 20 euros afin d'obtenir une licence pour l'ordinateur sur lequel il est installé.
+## Essayez-le gratuitement pendant 72 heures
+Nous offrons une période d'essai gratuite de 72 heures pour que vous puissiez tester notre logiciel avant de l'acheter. 
+Pour continuer à l'utiliser, vous devrez vous acquitter de la somme de 7,50 euros afin d'obtenir une licence à vie.
 
 ## Pourquoi choisir notre logiciel ?
 Parce que c'est une solution simple et pratique pour "capturer" un vol au meilleur prix. Grâce à notre application, vous pouvez surveiller les prix de vos vols préférés sans avoir à passer des heures à chercher l'opportunité de la meilleure offre. Les fonctionnalités de notification en temps réel et de visualisation des prix font de notre logiciel un outil indispensable pour tous les voyageurs soucieux de leur budget.
