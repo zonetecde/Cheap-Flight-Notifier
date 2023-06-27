@@ -33,8 +33,6 @@ Essayez notre logiciel dès aujourd'hui et commencez à économiser sur vos voya
 
 Rendez-vous sur la page [release](https://github.com/zonetecde/Cheap-Flight-Notifier/releases/tag/Release), ou cliquez [ici](https://github.com/zonetecde/Cheap-Flight-Notifier/releases/download/Release/Cheap.Flight.Notifier.exe) pour télécharger directement la dernière version !
 
-Le logiciel nécessite le Framework .Net 6.0 (Microsoft) téléchargeable [ici](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.16-windows-x64-installer?cid=getdotnetcore) si vous ne l'avez pas déjà d'installé sur votre ordinateur, le logiciel vous le demandera automatiquement.
-
 ## Quelques images...
 
 Sélection des vols que l'on veut "traquer"
