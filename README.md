@@ -47,5 +47,8 @@ Notification reçu sur le téléphone de l'utilisateur
 
 <img src="https://user-images.githubusercontent.com/56195432/234072256-0ff6c9e4-14fe-432a-89e3-1e6d2c027b06.jpg" width="400" />
 
+Evolution du prix d'un vol, accessible depuis le téléphone
+![image](https://github.com/zonetecde/Cheap-Flight-Notifier/assets/56195432/d0b55fe6-afd5-445f-9981-f2107cec8f9d)
+
 
 En cas de problème, ou pour acheter une licence, contactez-nous : zonedetec@gmail.com
