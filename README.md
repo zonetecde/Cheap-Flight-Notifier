@@ -1,3 +1,7 @@
+## Le projet n'est plus maintenu. Si vous souhaitez une nouvelle version contactez-moi.
+
+--------------------
+
 <h1 align="center">Cheap Flight Notifier</h1>
 
 <p align="center">
