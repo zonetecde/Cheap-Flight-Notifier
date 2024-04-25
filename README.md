@@ -1,4 +1,4 @@
-## Le projet n'est plus maintenu. Si vous souhaitez une nouvelle version contactez-moi.
+## Ce projet n'est plus maintenu. Rendez-vous sur [la nouvelle version Web](https://rayanestaszewski.fr/cheap-flight-notifier) !
 
 --------------------
 
